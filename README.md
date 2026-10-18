@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">B.Tech Student | Full-Stack Developer | DSA Enthusiast</h3>
 
-- 🔭 I’m currently working on **KonnectMe**
+- 🔭 I’m currently working on **KonnectMe - Real-time video conferencing with seamless communication and connectivity.**
 
 - 🌱 I’m currently learning **Socket.io & WebRTC**
 
